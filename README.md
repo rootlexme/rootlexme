@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm Rootlex, a full stack developer.
+#### I'm Rootlex, a frontend developer.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,pug,astro,sass,tailwind,ts,windicss,vue,nuxtjs,nodejs,svelte,docker)](https://github.com/rootlexme/rootlexme/)
 
